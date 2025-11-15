@@ -1,0 +1,9 @@
+# Ignore local config with secrets
+config.js
+
+# Node modules (if you add build tooling later)
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
